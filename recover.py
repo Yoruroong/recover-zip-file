@@ -1,3 +1,5 @@
+#원본 : https://bab2min.tistory.com/604
+
 import sys
 
 filename = input("손상된 파일 이름 : ") # ask file name
