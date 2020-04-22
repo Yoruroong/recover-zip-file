@@ -1,4 +1,6 @@
 #원본 : https://bab2min.tistory.com/604
+# python3 환경에서 제작하였습니다
+
 
 import sys
 
